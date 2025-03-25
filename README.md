@@ -28,7 +28,7 @@ Este repositório contém o código-fonte de um site simples desenvolvido com **
 2. Acesse a pasta do projeto:
 
    ```bash
-   cd meu-site
+   cd car-store
    ```
 
 3. Abra o arquivo `index.html` no seu navegador.
